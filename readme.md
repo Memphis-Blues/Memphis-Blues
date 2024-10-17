@@ -1,6 +1,6 @@
 ![alt-text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWc1eTcyMjI4NTJibXdpMXJubmZqY2VxcnU0ZXRyYnJncWh3OTAwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oNb3GLUvhF768/giphy.gif)
 
-# __*~Hello ! <3~*__
+# __***Hello ! <3***__
 
 Je m'appelle Memphis. J'ai 25 ans et je fais une réorientation professionnelle en dév (informatique). 
 Je suis actuellement des cours chez *Simplon Lille* pour me mettre à niveau. 
@@ -18,4 +18,5 @@ J'ai déjà utilisé les outils suivants par le passé, pour une autre formation
 Pour réaliser ma description de profil (readme), j'ai utilisé le Markdown, et utilisé l'application Visual Studio Code. 
 
 A bientôt je l'espère ! <3
+
 ![alt-text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia3.giphy.com%2Fmedia%2F13YKQBbebE2WJy%2Fgiphy.gif&f=1&nofb=1&ipt=bb196539c440f75a800f0afa778d8bdbcea1a4017f1dd8ac4c6630aff8d70358&ipo=images)
